@@ -1,10 +1,8 @@
 # Transformer-Based Text-Only and Multimodal Sentiment Analysis
 
-This repository contains the implementation code for my dissertation project:
+This repository contains the implementation code for "A Comparative Evaluation of Transformer-Based Text-Only and Multimodal Approaches for Sentiment Analysis".
 
-**A Comparative Evaluation of Transformer-Based Text-Only and Multimodal Approaches for Sentiment Analysis**
-
-The project compares text-only and multimodal transformer-based approaches for sentiment analysis using the CMU-MOSEI dataset. The experiments evaluate model performance under 2-class, 3-class, and 7-class sentiment classification settings.
+The project compares text-only and multimodal transformer-based approaches using the CMU-MOSEI dataset. The experiments evaluate model performance under 2-class, 3-class, and 7-class sentiment classification settings.
 
 ## Project Overview
 
