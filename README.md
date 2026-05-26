@@ -1,4 +1,4 @@
-# Transformer-Based Text-Only and Multimodal Sentiment Analysis
+# A Comparative Evaluation of Transformer-Based Text-Only and Multimodal Approaches for Sentiment Analysis
 
 This repository contains the implementation code for "A Comparative Evaluation of Transformer-Based Text-Only and Multimodal Approaches for Sentiment Analysis".
 
